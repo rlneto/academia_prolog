@@ -3,8 +3,8 @@
 
 **Disciplina:** INE5633 - Sistemas Inteligentes  
 **Curso:** Sistemas de Informação  
-**Universidade Federal de Santa Catarina (UFSC)**
 **Graduando:** Rudolfo Lange Neto  
+**Universidade Federal de Santa Catarina (UFSC)**
 
 
 ## Índice
